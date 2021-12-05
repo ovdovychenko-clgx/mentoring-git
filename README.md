@@ -1,1 +1,3 @@
-# mentoring-git
+# Git mentoring repository
+
+First commit
